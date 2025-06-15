@@ -15,16 +15,16 @@ To fully understand the project's objectives, technical architecture, and tokeno
 
 ## ✨ Key Features of ILIA
 
-* **Interest-Free Lending:** Providing financial facilities without charging (interest), in accordance with ethical financial principles.
+* **Interest-Free Lending:** Providing financial facilities without charging interest, in accordance with ethical financial principles.
 * **Fully Decentralized:** The project is governed by a Decentralized Autonomous Organization (DAO) through token holder voting.
-* **Takaful Insurance:** A Takaful insurance fund to protect users' principal capital against impermanent loss in liquidity pools.
+* **powerfull Insurance:** the insurance fund to protect users' principal capital against impermanent loss in liquidity pools.
 * **Full Transparency:** All transactions and smart contracts are recorded on the blockchain and are publicly viewable.
 * **Financial Inclusion:** A special focus on providing services to communities that lack access to traditional financial systems.
 
 ## 🔮 The Vision for the Future
 
 ILIA's ultimate goal extends beyond a lending platform. We are building a complete financial ecosystem that will include:
--   International Sukuk (Participation Bonds)
+-   International Participation Bonds
 -   Micropayment Systems
 -   Integration with Real-World Projects (Housing, Clean Energy, Healthcare)
 -   Credit Scoring based on Web3 Digital Identity
