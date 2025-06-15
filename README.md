@@ -3,7 +3,6 @@
 </p>
 
 # ILIA Protocol
-# ILIA Protocol
 
 ### Inclusive Lending, Impact Access
 
