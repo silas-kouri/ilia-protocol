@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=https://github.com/silas-kouri/ilia-protocol/blob/main/assets/logo4.png alt="ILIA Protocol Logo" width="150"/>
+</p>
+
+# ILIA Protocol
 # ILIA Protocol
 
 ### Inclusive Lending, Impact Access
