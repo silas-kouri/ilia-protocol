@@ -14,7 +14,7 @@
 
 To fully understand the project's objectives, technical architecture, and tokenomics, please read our official whitepaper:
 
-➡️ **[Read the Full ILIA Protocol Whitepaper (PDF)](./ilia-whitepaper.pdf)** ⬅️
+➡️ [Read the Full ILIA Protocol Whitepaper (PDF)](https://github.com/silas-kouri/ilia-protocol/blob/main/White%20Paper%200.5.3)⬅️
 *(Note: The file is assumed to be named ilia-whitepaper.pdf. Please change the link if your file has a different name.)*
 
 ## ✨ Key Features of ILIA
